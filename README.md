@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm G. Rakesh Naga Sai
 
-<!--
-**starakeshh-cmyk/starakeshh-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at VIIT
 
-Here are some ideas to get you started:
+💻 Web Developer | API Handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Enthusiast
+
+🌱 Learning Full Stack Development & AI/ML
+
+🚀 AI Projects
+
+---
+
+## 🛠 Skills
+
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+![HTML](https://img.shields.io/badge/HTML-red?logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=starakeshh-cmyk&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starakeshh-cmyk&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+
+- Smart Agri Flow
+- Jarvis AI Assistant
+- My Resume Website
+- Portfolio Website
+- VENNELA-AI
+- MY SPACE
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rakeshv__08)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guddanti-rakesh-naga-sai-851697379)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/starakeshh-cmyk)
+
+## 📫 Contact
+
+Email: starakeshh@gmail.com
